@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is GitHub Learning Lab's Probot project
 
 ## What it does
 
-FEATURES PLACEHOLDER
+communicate with new users of GitHub, and help understanding how open source project works.
 
 ## Getting started
 
